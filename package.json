@@ -1,0 +1,15 @@
+{
+  "name": "devops-midterm-23-ntu-cs-1197",
+  "version": "1.0.0",
+  "description": "DevOps midterm lab",
+  "main": "src/shipping.js",
+  "scripts": {
+    "test": "node --test",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.15.0",
+    "globals": "^17.14.0"
+  }
+}
